@@ -24,6 +24,6 @@ TODO
 
 You can also import the code from this guide as well as view the web page directly into Spring Tool Suite (STS) and work your way through it from there.
 *STSで直接Web ページを見ることができるだけでなく、このガイドからコードをインポートすることもできます。
-そして、そこからそれを使ってみてください。*
+そして、そこからそれを使って取り組んでください。*
 > __Note:__ Spring Tool Suite (STS)
 > Spring Tool Suite (STS)とはEclipseベースのSpringに特化したIDEのこと。
